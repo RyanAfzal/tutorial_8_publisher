@@ -12,3 +12,6 @@ ss terminal publisher
 
 ss terminal subscriber ketika telah berhasil menerima 5 event message broker dari publisher
 <img width="738" alt="ss terminal subscriber" src="https://github.com/RyanAfzal/tutorial_8_publisher/assets/137851158/cf10611a-5865-41d8-b171-3fac8f6b5ab3">
+
+Screenshot RabbitMQ saat terdapat spikes yang menandakan telah dijalankannya publisher dengan cargo run berkali-kali (message rates)
+<img width="941" alt="ss chart adpro" src="https://github.com/RyanAfzal/tutorial_8_publisher/assets/137851158/797b5931-e4b1-42d0-be45-8f9262367354">
